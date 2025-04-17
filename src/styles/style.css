@@ -199,6 +199,7 @@ left: 0rem;
 }
 .footer-container div:hover{
     background-color: #e2e2e28b;
+    cursor: pointer;
    
 }
 
